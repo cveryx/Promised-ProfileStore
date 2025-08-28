@@ -7,4 +7,8 @@ export type profileSession<T> = {}
 
 export type store<T> = {}
 
-return {}
+
+return {
+    profileSession = profileSession,
+    store = store,
+}
