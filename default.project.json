@@ -1,0 +1,7 @@
+{
+  "name": "promised-profilestore",
+  "tree": {
+    "$className": "Folder",
+    "ProfilestoreKit": { "$path": "src" }
+  }
+}

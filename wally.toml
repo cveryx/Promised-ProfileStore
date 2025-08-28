@@ -1,0 +1,10 @@
+[package]
+name = "ayden/promised-profilestore"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "Typed, Promise powered wrapper for ProfileStore."
+
+[dependencies]
+Promise = "evaera/promise@^4"
+ProfileStore = "2jammers/profilestore@^0.1.0"

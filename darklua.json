@@ -1,0 +1,5 @@
+{ "rules": [
+  {"rule":"remove-comments"},
+  {"rule":"remove-useless-if"},
+  {"rule":"remove-parentheses"}
+]}
